@@ -1,5 +1,5 @@
 {
-  "name": "kaggle_express_react",
+  "name": "kaggle-express-react",
   "version": "1.0.0",
   "description": "Kaggle Application based in Express & React",
   "main": "index.js",
