@@ -1,0 +1,19 @@
+{
+  "name": "kaggle_express_react",
+  "version": "1.0.0",
+  "description": "Kaggle Application based in Express & React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrinaranjo94/kaggle-express-react.git"
+  },
+  "author": "Adrian Naranjo & Sergio Redondo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrinaranjo94/kaggle-express-react/issues"
+  },
+  "homepage": "https://github.com/adrinaranjo94/kaggle-express-react#readme"
+}
