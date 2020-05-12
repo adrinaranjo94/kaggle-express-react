@@ -2,9 +2,9 @@
   "name": "kaggle-express-react",
   "version": "1.0.0",
   "description": "Kaggle Application based in Express & React",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r dotenv/config app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/adrinaranjo94/kaggle-express-react/issues"
   },
-  "homepage": "https://github.com/adrinaranjo94/kaggle-express-react#readme"
+  "homepage": "https://github.com/adrinaranjo94/kaggle-express-react#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.1",
+    "express-jwt": "^5.3.3",
+    "express-react-views": "^0.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.9.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.0.0"
+  }
 }
